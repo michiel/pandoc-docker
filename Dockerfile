@@ -1,4 +1,4 @@
-FROM haskell:8.0
+FROM haskell:8.6
 
 MAINTAINER James Gregory <james@jagregory.com>
 
